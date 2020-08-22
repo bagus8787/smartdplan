@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "230301422244",
+    "firebase_url": "https://smartdplan.firebaseio.com",
+    "project_id": "smartdplan",
+    "storage_bucket": "smartdplan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230301422244:android:6426f7284e569304ea8c31",
+        "android_client_info": {
+          "package_name": "com.example.smartd_plan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230301422244-v4humabhqktfrgrp3nc9iu1g9trbdv67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartd_plan",
+            "certificate_hash": "8f9c922698afeb0e49b6209010b530ce43d077ea"
+          }
+        },
+        {
+          "client_id": "230301422244-fhlcem37avvllimppho6m9kq41u0b27d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wRPWT9lQ1wFkgObCCPCW4Er5Ok870qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230301422244-fhlcem37avvllimppho6m9kq41u0b27d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
